@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Image Size / Ratio",
+    "description": "Just a simple size / ratio image dimension - By Mattcreation",
+    "version": "1.0",
+    "permissions": ["activeTab", "clipboardWrite"],
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "Logo.png"
+    },
+    "icons": {
+        "16": "Logo.png",
+        "32": "Logo.png",
+        "48": "Logo.png",
+        "128": "Logo.png"
+    }
+}
